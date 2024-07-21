@@ -40,7 +40,7 @@ Installation
 Clone the Repository:
 
 
-git clone https://github.com/yourusername/ridesmart.git
+[git clone https://github.com/yourusername/ridesmart.git](https://github.com/KimmSeph/RideSmart-Bus-Seat-Reservation-System-/blob/main/Bus-Reservation_Ceferino_Kimm_DeLas_CS1301.cpp)
 cd ridesmart
 Compile the Program:
 
